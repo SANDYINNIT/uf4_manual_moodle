@@ -127,3 +127,9 @@ config.vm.network "public_network"
 smx2b@turing-116:~$ vi /etc/php/8.1/apache2/php.ini
 ```
 Añadimos esta linia al archivo `max_input_vars = 5000
+
+ # Assignment to do inside Moodle Website
+
+ ## Change Profile, name, etc.
+ To being able to do this go to your `Profile` *at the top right* by left clicking on your profile.
+ 
