@@ -132,5 +132,5 @@ Añadimos esta linia al archivo `max_input_vars = 5000
 
  ## Change Profile, name, etc.
  To being able to do this go to your `Profile` *at the top right* by left clicking on your profile.
- 
-![aa](../../../Imatges/Captures%20de%20pantalla/a.png)
+
+![](../../../Imatges/Captures%20de%20pantalla/a.png)
