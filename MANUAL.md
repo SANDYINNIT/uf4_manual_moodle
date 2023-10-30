@@ -133,4 +133,4 @@ Añadimos esta linia al archivo `max_input_vars = 5000
  ## Change Profile, name, etc.
  To being able to do this go to your `Profile` *at the top right* by left clicking on your profile.
 
-![](../../../Imatges/Captures%20de%20pantalla/a.png)
+<img title="a title" alt="Alt text" src="../../../Imatges/Captures%20de%20pantalla/a.png">
