@@ -133,3 +133,4 @@ Añadimos esta linia al archivo `max_input_vars = 5000
  ## Change Profile, name, etc.
  To being able to do this go to your `Profile` *at the top right* by left clicking on your profile.
  
+ file:///home/smx2b/Imatges/Captures%20de%20pantalla/Captura%20de%20pantalla%20de%202023-10-30%2012-36-28.png
