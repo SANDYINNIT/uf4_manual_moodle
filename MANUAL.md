@@ -223,3 +223,8 @@ After you're done and somehow able to convert it into a `.csv` this is how it sh
 
 After uploading users into `Add User` this is how its supposed to look: *and then simply press on save at the bottom*
 ![Screenshot](https://github.com/SANDYINNIT/uf4_manual_moodle/blob/main/Screenshots/CSV%20Users%20uploaded.png)
+
+### Adding the Users that we generated into A & B Course
+Go to `My Courses > A/B > Participants` From there you'll see a blue button saying `Enrol users` and by pressing on that you'll be able to add the Users into the courses.
+![SCreenshot](https://github.com/SANDYINNIT/uf4_manual_moodle/blob/main/Screenshots/Adding%20Users%20to%20Courses.png)
+![Screenshot](https://github.com/SANDYINNIT/uf4_manual_moodle/blob/main/Screenshots/Enrolling%20Students.png)
