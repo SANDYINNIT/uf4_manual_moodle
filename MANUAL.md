@@ -200,3 +200,9 @@ Let's manually create a user named **Bob** who must use the manual authenticatio
 
 Once we're there we gotta create a new user by clicking on `Add a new user`:
 ![Screenshot](https://github.com/SANDYINNIT/uf4_manual_moodle/blob/main/Screenshots/Adding%20User.png)
+
+While creating a User, this is how it should look: *and simply save after done*
+![Screenshot](https://github.com/SANDYINNIT/uf4_manual_moodle/blob/main/Screenshots/Bob.png)
+
+Done!:
+![Screenshot](https://github.com/SANDYINNIT/uf4_manual_moodle/blob/main/Screenshots/Users.png)
