@@ -158,3 +158,10 @@ You'll see this page *shown below,* and here It'll allow you to set a default ti
 
 ## Change the password policy.
 We're gonna have to make it so that users who create themselves have a password of at least 4 characters including uppercase, lowercase and numbers. This can be done by going to Site `Administration > Security > Site Policies.`
+
+Go here in `Site security settings`: `(IP)/moodle/admin/settings.php?section=sitepolicies`
+![Screenshot](https://github.com/SANDYINNIT/uf4_manual_moodle/blob/main/Screenshots/Security%20to%20change%20policy.png)
+
+In the page you'll have to scroll a little down to being able to change it so the password length can be 4 characters and etc. *Shown below*
+![Screenshot](https://github.com/SANDYINNIT/uf4_manual_moodle/blob/main/Screenshots/Changing%20settings%20to%20able%20to%20put%201%20letter%20value%20in%20courses%20name.png)
+
