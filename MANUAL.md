@@ -213,10 +213,10 @@ Let's generate ten students who will be from the two years A and B. we're going 
 Once in `(IP)/moodle/admin/tool/uploaduser/index.php` we'll need to download the `example.csv` which is at the middle.
 ![Screenshot](https://github.com/SANDYINNIT/uf4_manual_moodle/blob/main/Screenshots/Creating%2010%20Users%20CSV.png)
 
-Open the file as an `LibreOffice Calc` and this is how it should look: 
+Open the file as an `LibreOffice Calc` or any other program that you'd like to use it as. And this is how it should look: 
 *simply add usernames, firstnames, lastnames 7 more times.*
 ![Screenshot](https://github.com/SANDYINNIT/uf4_manual_moodle/blob/main/Screenshots/example-csv.png)
 
-After you're done this is how it should look: 
+After you're done and somehow able to convert it into a `.csv` this is how it should look: 
 *Simply now upload it to `Upload Users` and let it do its magic*
 ![Screenshot](https://github.com/SANDYINNIT/uf4_manual_moodle/blob/main/Screenshots/Done%20example-csv.png)
