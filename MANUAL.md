@@ -177,3 +177,9 @@ After going to `(IP)/moodle/course/management.php` the page should look like the
 To add courses click on `Create new course` at the right side and create 2 Courses called `A` and `B`, if it doesn't allow you to put short names then go to settings and disable it.
 If you do not want the Category to be shown click on the eye button at the left side in the `Category` section, and it'll make the category be hidden.. Except for Administrators.
 ![Screenshot](https://github.com/SANDYINNIT/uf4_manual_moodle/blob/main/Screenshots/Adding%20Courses.png)
+
+## Edit Courses and add Topics, Materials, etc inside it.
+Now we'll have to go to one of the courses created in the previous point (simply by selecting it in the Navigation box) and we are going to make it contain some type of material in one of its topics (a PDF document, for example),
+Change the title of a topic and in General.
+
+In `(IP)/moodle/course/` go to any Courses.. But I'm going to be Editing the Course `B`
