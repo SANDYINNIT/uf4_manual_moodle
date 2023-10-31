@@ -195,7 +195,7 @@ We're gonna change `Topic 1` to `PDF Innit` and we'll also be adding an `PDF Rec
 This is how it should look afterwards:
 ![Screenshot](https://github.com/SANDYINNIT/uf4_manual_moodle/blob/main/Screenshots/PDF%20and%20Topic%20change%20done.png)
 
-## Creating an User
+## Creating an User.
 Let's manually create a user named **Bob** who must use the manual authentication method. This can be done from Site `Administration > Users > Accounts > Add User` aka `(IP)/moodle/admin/search.php#linkusers`
 
 Once we're there we gotta create a new user by clicking on `Add a new user`:
@@ -207,7 +207,7 @@ While creating a User, this is how it should look: *and simply save after done*
 Done!:
 ![Screenshot](https://github.com/SANDYINNIT/uf4_manual_moodle/blob/main/Screenshots/Users.png)
 
-## Generating 10 Students
+## Generating 10 Students.
 Let's generate ten students who will be from the two years A and B. we're going to use a CSV file to perform this block creation. Go to Site `Administration > Users > Accounts > Upload Users` and follow the prompts.
 
 Once in `(IP)/moodle/admin/tool/uploaduser/index.php` we'll need to download the `example.csv` which is at the middle.
@@ -224,10 +224,18 @@ After you're done and somehow able to convert it into a `.csv` this is how it sh
 After uploading users into `Add User` this is how its supposed to look: *and then simply press on save at the bottom*
 ![Screenshot](https://github.com/SANDYINNIT/uf4_manual_moodle/blob/main/Screenshots/CSV%20Users%20uploaded.png)
 
-### Adding the Users that we generated into A & B Course
+### Adding the Users that we generated into A & B Course.
 Go to `My Courses > A/B > Participants` From there you'll see a blue button saying `Enrol users` and by pressing on that you'll be able to add the Users into the courses.
 ![SCreenshot](https://github.com/SANDYINNIT/uf4_manual_moodle/blob/main/Screenshots/Adding%20Users%20to%20Courses.png)
 ![Screenshot](https://github.com/SANDYINNIT/uf4_manual_moodle/blob/main/Screenshots/Enrolling%20Students.png)
 
 After Enrolling Studnets into both Courses this is how it'll look:
 ![Screenshot](https://github.com/SANDYINNIT/uf4_manual_moodle/blob/main/Screenshots/Enrolled%20Students.png)
+
+## Removing the Previous 10 users we Created.
+To remove the ten students created in the previous section we'll use the option `Site administration > Users > Bulk user actions` aka `(IP)/moodle/admin/user/user_bulk.php`
+
+After you're in `Bulk user actions` page you'll be able to select the *Users* that you'd like to remove, this action could also be done in `Browse list of users` but that would be slow..
+Select the users that you would want to delete at the bottom, and if you ACCIDENTLY add an administrator and did the `delete action`, not to worry, Administrators cannot be deleted.
+Select the users you would want to delete and select the option `Delete` at the bottom, after selecting press on `Go`
+![Screenshot](https://github.com/SANDYINNIT/uf4_manual_moodle/blob/main/Screenshots/Removing%20the%2010%20Users.png)
