@@ -199,4 +199,4 @@ This is how it should look afterwards:
 Let's manually create a user named **Bob** who must use the manual authentication method. This can be done from Site `Administration > Users > Accounts > Add User` aka `(IP)/moodle/admin/search.php#linkusers`
 
 Once we're there we gotta create a new user by clicking on `Add a new user`:
-
+![Screenshot](https://github.com/SANDYINNIT/uf4_manual_moodle/blob/main/Screenshots/Adding%20User.png)
