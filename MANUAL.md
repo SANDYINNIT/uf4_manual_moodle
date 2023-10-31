@@ -228,3 +228,6 @@ After uploading users into `Add User` this is how its supposed to look: *and the
 Go to `My Courses > A/B > Participants` From there you'll see a blue button saying `Enrol users` and by pressing on that you'll be able to add the Users into the courses.
 ![SCreenshot](https://github.com/SANDYINNIT/uf4_manual_moodle/blob/main/Screenshots/Adding%20Users%20to%20Courses.png)
 ![Screenshot](https://github.com/SANDYINNIT/uf4_manual_moodle/blob/main/Screenshots/Enrolling%20Students.png)
+
+After Enrolling Studnets into both Courses this is how it'll look:
+![Screenshot](https://github.com/SANDYINNIT/uf4_manual_moodle/blob/main/Screenshots/Enrolled%20Students.png)
