@@ -183,3 +183,10 @@ Now we'll have to go to one of the courses created in the previous point (simply
 Change the title of a topic and in General.
 
 In `(IP)/moodle/course/` go to any Courses.. But I'm going to be Editing the Course `B`
+![Screenshot](https://github.com/SANDYINNIT/uf4_manual_moodle/blob/main/Screenshots/Editing%20where%20are%20courses.png)
+
+In the Course, of course turn on `Editing mode` from top right.
+![Screenshot](https://github.com/SANDYINNIT/uf4_manual_moodle/blob/main/Screenshots/Editing%20mode%20turn%20on%20courses.png)
+
+**Let's Edit This!:** *shown in the screenshot below*
+We're gonna change `Topic 1` to `PDF Innit` and we'll also be adding an `PDF Recourse` in there.
