@@ -220,3 +220,6 @@ Open the file as an `LibreOffice Calc` or any other program that you'd like to u
 After you're done and somehow able to convert it into a `.csv` this is how it should look: 
 *Simply now upload it to `Upload Users` and let it do its magic*
 ![Screenshot](https://github.com/SANDYINNIT/uf4_manual_moodle/blob/main/Screenshots/Done%20example-csv.png)
+
+After uploading users into `Add User` this is how its supposed to look: *and then simply press on save at the bottom*
+![Screenshot](https://github.com/SANDYINNIT/uf4_manual_moodle/blob/main/Screenshots/CSV%20Users%20uploaded.png)
