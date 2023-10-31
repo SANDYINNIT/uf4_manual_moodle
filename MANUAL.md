@@ -216,3 +216,7 @@ Once in `(IP)/moodle/admin/tool/uploaduser/index.php` we'll need to download the
 Open the file as an `LibreOffice Calc` and this is how it should look: 
 *simply add usernames, firstnames, lastnames 7 more times.*
 ![Screenshot](https://github.com/SANDYINNIT/uf4_manual_moodle/blob/main/Screenshots/example-csv.png)
+
+After you're done this is how it should look: 
+*Simply now upload it to `Upload Users` and let it do its magic*
+![Screenshot](https://github.com/SANDYINNIT/uf4_manual_moodle/blob/main/Screenshots/Done%20example-csv.png)
