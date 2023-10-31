@@ -189,4 +189,14 @@ In the Course, of course turn on `Editing mode` from top right.
 ![Screenshot](https://github.com/SANDYINNIT/uf4_manual_moodle/blob/main/Screenshots/Editing%20mode%20turn%20on%20courses.png)
 
 **Let's Edit This!:** *shown in the screenshot below*
-We're gonna change `Topic 1` to `PDF Innit` and we'll also be adding an `PDF Recourse` in there.
+We're gonna change `Topic 1` to `PDF Innit` and we'll also be adding an `PDF Recourse` in there. *dont forget to add a name to PDF while adding a file*
+![Screenshot](https://github.com/SANDYINNIT/uf4_manual_moodle/blob/main/Screenshots/Topic%20edit%20and%20adding%20PDF%20Course.png)
+
+This is how it should look afterwards:
+![Screenshot](https://github.com/SANDYINNIT/uf4_manual_moodle/blob/main/Screenshots/PDF%20and%20Topic%20change%20done.png)
+
+## Creating an User
+Let's manually create a user named **Bob** who must use the manual authentication method. This can be done from Site `Administration > Users > Accounts > Add User` aka `(IP)/moodle/admin/search.php#linkusers`
+
+Once we're there we gotta create a new user by clicking on `Add a new user`:
+
