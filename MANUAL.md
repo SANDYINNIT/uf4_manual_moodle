@@ -147,3 +147,14 @@ from there you should be able to see something saying `Site home settings` at th
 And at the bottom you'll be able to change who's allowed to view front page, etc.
 ![Screenshot](https://github.com/SANDYINNIT/uf4_manual_moodle/blob/main/Screenshots/Bottom%20to%20change%20settings%20of%20front%20page.png)
 
+## Check if the time slot is correct.
+To check that the time slot of your site is correct can be done by going to Site `Administration > Location > Settings.`
+
+Basically `(IP)/moodle/admin/settings.php?section=locationsettings`
+![Screenshot](https://github.com/SANDYINNIT/uf4_manual_moodle/blob/main/Screenshots/Location%20Settings%20Innit.png)
+
+You'll see this page *shown below,* and here It'll allow you to set a default timezone so you can correct it.. For Example mine isn't supposed to be `Europe/London` instead it's supposed to be `Europe/Madrid`... I'll change it.
+![Screenshot](https://github.com/SANDYINNIT/uf4_manual_moodle/blob/main/Screenshots/Timezone%20Change.png)
+
+## Change the password policy.
+We're gonna have to make it so that users who create themselves have a password of at least 4 characters including uppercase, lowercase and numbers. This can be done by going to Site `Administration > Security > Site Policies.`
