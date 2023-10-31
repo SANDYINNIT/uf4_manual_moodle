@@ -139,10 +139,11 @@ Here you'll be able to change your username, password, etc.
 
 ## Change site name and settings.
 To being able to change the site name you'll be able to do it in `Site Administration` site which is in `(IP)/moodle/admin/search.php`
-
 ![Screenshot](https://github.com/SANDYINNIT/uf4_manual_moodle/blob/main/Screenshots/Site%20Administrator.png)
 
 from there you should be able to see something saying `Site home settings` at the bottom, go there. `(IP)/moodle/admin/settings.php?section=frontpagesettings`
-
 ![Screenshot](https://github.com/SANDYINNIT/uf4_manual_moodle/blob/main/Screenshots/Change%20Site%20name%20and%20settings.png)
+
+And at the bottom you'll be able to change who's allowed to view front page, etc.
+![Screenshot](https://github.com/SANDYINNIT/uf4_manual_moodle/blob/main/Screenshots/Bottom%20to%20change%20settings%20of%20front%20page.png)
 
