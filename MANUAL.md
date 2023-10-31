@@ -206,3 +206,9 @@ While creating a User, this is how it should look: *and simply save after done*
 
 Done!:
 ![Screenshot](https://github.com/SANDYINNIT/uf4_manual_moodle/blob/main/Screenshots/Users.png)
+
+## Generating 10 Students
+Let's generate ten students who will be from the two years A and B. we're going to use a CSV file to perform this block creation. Go to Site `Administration > Users > Accounts > Upload Users` and follow the prompts.
+
+Once in `(IP)/moodle/admin/tool/uploaduser/index.php` we'll need to download the `example.csv` which is at the middle.
+![Screenshot](https://github.com/SANDYINNIT/uf4_manual_moodle/blob/main/Screenshots/Creating%2010%20Users%20CSV.png)
