@@ -165,3 +165,10 @@ Go here in `Site security settings`: `(IP)/moodle/admin/settings.php?section=sit
 In the page you'll have to scroll a little down to being able to change it so the password length can be 4 characters and etc. *Shown below*
 ![Screenshot](https://github.com/SANDYINNIT/uf4_manual_moodle/blob/main/Screenshots/Changing%20settings%20to%20able%20to%20put%201%20letter%20value%20in%20courses%20name.png)
 
+## Create Courses
+Now we'll have to create the following courses: a course named A (uncategorized) that consists of 3 topics and another named B (also uncategorized) that consists of 5 topics. We can do all this from Site `Administration->Manage courses and categories` or also from the Navigation box by going to `Courses > Add course`
+*We'll be doing it from `Administration->Manage courses and categories`*
+![Screenshot](https://github.com/SANDYINNIT/uf4_manual_moodle/blob/main/Screenshots/Courses%20where.png)
+
+In courses *shown from the screenshot above* go to `Manage courses and categories`
+![Screenshot](https://github.com/SANDYINNIT/uf4_manual_moodle/blob/main/Screenshots/Courses%20category.png)
