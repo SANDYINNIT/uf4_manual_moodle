@@ -172,3 +172,8 @@ Now we'll have to create the following courses: a course named A (uncategorized)
 
 In courses *shown from the screenshot above* go to `Manage courses and categories`
 ![Screenshot](https://github.com/SANDYINNIT/uf4_manual_moodle/blob/main/Screenshots/Courses%20category.png)
+
+After going to `(IP)/moodle/course/management.php` the page should look like the screenshot below.. BUT you won't have any courses,
+To add courses click on `Create new course` at the right side and create 2 Courses called `A` and `B`, if it doesn't allow you to put short names then go to settings and disable it.
+If you do not want the Category to be shown click on the eye button at the left side in the `Category` section, and it'll make the category be hidden.. Except for Administrators.
+![Screenshot](https://github.com/SANDYINNIT/uf4_manual_moodle/blob/main/Screenshots/Adding%20Courses.png)
