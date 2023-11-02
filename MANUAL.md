@@ -239,3 +239,6 @@ After you're in `Bulk user actions` page you'll be able to select the *Users* th
 Select the users that you would want to delete at the bottom, and if you ACCIDENTLY add an administrator and did the `delete action`, not to worry, Administrators cannot be deleted.
 Select the users you would want to delete and select the option `Delete` at the bottom, after selecting press on `Go`
 ![Screenshot](https://github.com/SANDYINNIT/uf4_manual_moodle/blob/main/Screenshots/Removing%20the%2010%20Users.png)
+
+## Changing Settings of the Courses (Visitors only, etc)
+We're gonna make course A no possibility of registration (that is, only visitor access is allowed so that the course is completely public without user control - neither students nor teachers -). On the other hand, we'll make course B require manual user registration (that is, have the administrator - you - enroll each user in the course, either as a teacher or as a student). We can do all this from `Course Administration > Users > Registration methods`. If an available registration method does not appear, you must enable it in: `Site Administration > Plugins > Authentication > Authentication Management`
